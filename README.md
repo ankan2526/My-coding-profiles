@@ -14,3 +14,4 @@ Here are all my profile links from different coding platforms..
 * LeetCode: https://leetcode.com/ankan2526/
 * AtCoder: https://atcoder.jp/users/ankan2526
 * SoloLearn: https://www.sololearn.com/profile/18431641
+* NewtonSchool: https://my.newtonschool.co/user/ankan2526/
